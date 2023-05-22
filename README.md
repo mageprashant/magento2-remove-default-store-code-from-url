@@ -1,0 +1,1 @@
+# magento2-remove-default-store-code-from-url
