@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Backend\Block\System\Store\Edit\Form\Group">
+        <plugin name="modify_store_edit_form" type="MagePrashant\RemoveStoreCode\Plugin\Block\Store\Edit\Form\Group" />
+    </type>
+</config>
+
